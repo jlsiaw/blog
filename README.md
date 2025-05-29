@@ -1,1 +1,2 @@
-# blog
+# Blog
+Content of Blog pages
